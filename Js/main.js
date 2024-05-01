@@ -94,10 +94,10 @@ new Swiper('.awards .swiper', {
   spaceBetween: 30,
   slidesPerView: 5,
   navigation: {
-    prevEl: '.awrads .swiper-prev',
-    nextEl: '.awrads .swiper-next'
+    prevEl: '.awards .swiper-prev',
+    nextEl: '.awards .swiper-next'
   }
-});
+})
 
 
 const promotionEl = document.querySelector(".promotion");
