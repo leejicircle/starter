@@ -238,7 +238,7 @@ header .main-menu .item .item__contents .contents__menu > ul > li ul li:hover {
 }
 header .main-menu .item .item__contents .contents__texture {
   padding: 26px 0;
-  background-image: url("/test/images/main_menu_pattern.jpg");
+  background-image: url("../images/main_menu_pattern.jpg");
   font-size: 12px; 
 }
 header .main-menu .item .item__contents .contents__texture h4 {
@@ -313,9 +313,7 @@ header .badges .badge {
   opacity: 0;
 }
 /* notice */
-.notice {
-  
-}
+
 .notice .notice-line {
   position: relative;
 }
@@ -598,13 +596,10 @@ header .badges .badge {
 .season-product .text-group .description {
   margin-bottom: 15px;
 }
-.season-product .text-group .more {
-  
-}
 
 /* reserve coffee */
 .reserve-coffee {
-  background-image: url("../images/reserve_bg.jpg");
+  background-image: url("/images/reserve_bg.jpg");
 }
 .reserve-coffee .inner {
   height: 400px;
